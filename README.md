@@ -18,8 +18,6 @@ Install Docker https://docs.docker.com/get-docker/ and start containers from ins
 docker-compose up -d
 ```
 
-To stop it:
-=======
 *sudo* may be required on Linux
 
 ```
