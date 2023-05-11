@@ -19,6 +19,14 @@ docker-compose up -d
 ```
 
 To stop it:
+=======
+*sudo* may be required on Linux
+
+```
+sudo docker-compose up -d
+```
+
+To stop it:
 ```
 docker-compose down
 ```
